@@ -30,3 +30,8 @@ This project helps a logistics company understand delivery performance using key
 ## 🛠 Tools
 
 Power BI | DAX | Data Modeling
+
+## 📂 Files
+
+- 📊 Dataset: [Download CSV](data/logistics_data.csv)
+- 💻 Dashboard (PBIX): [Download here](LINK_DO_DRIVE)
