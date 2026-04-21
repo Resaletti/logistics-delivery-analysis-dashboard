@@ -1,1 +1,7 @@
-
+logistics-delivery-analysis-dashboard/
+│
+├── data/
+├── dashboard/
+├── images/
+├── docs/
+└── README.md
