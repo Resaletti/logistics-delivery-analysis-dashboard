@@ -12,7 +12,7 @@ This project helps a logistics company understand delivery performance using key
 
 ## 📊 Dashboard Preview
 
-(IMAGE HERE)
+![Dashboard](images/dashboard-preview.png)
 
 ---
 
