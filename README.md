@@ -12,7 +12,7 @@ This project was developed to help a logistics company understand and optimize i
 
 ## 📊 Dashboard Preview
 
-![Dashboard](./images/dashboard-preview.png)
+![Dashboard](dashboard/images/dashboard-preview.png)
 
 ---
 
