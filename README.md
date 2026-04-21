@@ -33,5 +33,5 @@ Power BI | DAX | Data Modeling
 
 ## 📂 Files
 
-- 📊 Dataset: [Download CSV](data/logistics_data.csv)
+- 📊 Dataset: [Download xlsx](dataset.xlsx)
 - 💻 Dashboard (PBIX): [Download here](Mini-Projeto04.pbix)
