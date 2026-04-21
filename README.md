@@ -12,7 +12,7 @@ This project helps a logistics company understand delivery performance using key
 
 ## 📊 Dashboard Preview
 
-![Dashboard](https://github.com/Resaletti/logistics-delivery-analysis-dashboard/blob/8a20e63fc71e7953f07afd4141aa94cb7f271c02/images/dashboard-preview.png)
+![Dashboard](https://github.com/Resaletti/logistics-delivery-analysis-dashboard/blob/80e47ceec2ed6a4c2b4afaa08ad21b0040743108/images/Logistics.png)
 
 ---
 
