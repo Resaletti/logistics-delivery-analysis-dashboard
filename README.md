@@ -33,5 +33,5 @@ Power BI | DAX | Data Modeling
 
 ## 📂 Files
 
-- 📊 Dataset: [Download CSV](data/logistics_data.csv)
+- 📊 Dataset: [Download CSV](https://github.com/Resaletti/logistics-delivery-analysis-dashboard/blob/eaf5ba03d55b982ed82a05cc54431620230750d0/docs/dataset.xlsx)
 - 💻 Dashboard (PBIX): [Download here](LINK_DO_DRIVE)
